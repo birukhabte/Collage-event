@@ -80,13 +80,3 @@ const PORT = process.env.PORT || 8002;
 app.listen(PORT, () => {
   console.log(`Event service running on port ${PORT}`);
 });
-
-# Update: 1774770509
-
-# Update: 1774770509
-
-# Update: 1774770509
-
-# Update: 1774770510
-
-# Update: 1774770510

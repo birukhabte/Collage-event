@@ -65,6 +65,3 @@ const PORT = process.env.PORT || 8001;
 app.listen(PORT, () => {
   console.log(`Auth service running on port ${PORT}`);
 });
-# Update: 1774770509
-
-# Update: 1774770510
